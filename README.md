@@ -6,4 +6,4 @@ The Model is saved and reused with the help of Pickle.
 
 Also uses Html/CSS for the UI of the Project.
 
-While the project is deployed on Heroku : ML API (dhruvfinaltest.herokuapp.com)
+While the project is deployed on Heroku : [ML API](https://dhruvfinaltest.herokuapp.com/)
